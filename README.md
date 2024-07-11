@@ -1,1 +1,1 @@
-# lambda
+# lambda functions in string
